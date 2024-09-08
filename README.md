@@ -1,16 +1,16 @@
 ### ** Olá, futuro usuário!**
 
-Se você chegou até aqui, provavelmente está curioso para saber mais sobre essa aplicação que te ajuda a cuidar da sua saúde mental. Legal, né? 
+Se você chegou até aqui, provavelmente está curioso para saber mais sobre essa aplicação que te ajuda a cuidar da sua saúde mental. Legal, não é mesmo? 
 
-**O que essa fera faz?**
+**O que essa projetinho faz?**
 
-Essa aplicação é como um abraço virtual para a sua mente! Ela te proporciona informações sobre saúde mental de um jeito fácil e acessível. Quer saber o que é saúde mental? Quais são os obstáculos? Como cuidar de si mesmo? Aqui você encontra tudo isso e muito mais!
+Essa aplicação é uma maneira de dar um abraço virtual na sua mente! Ela te proporciona informações sobre saúde mental de um jeito fácil e acessível. Quer saber o que é saúde mental? Quais são os obstáculos? Como cuidar de si mesmo? Aqui você encontra tudo isso e muito mais!
 
 **️ Tecnologias usadas:**
 
 * **HTML:** A base de tudo! É como a estrutura da nossa casa, dando forma à página.
-* **CSS:** A maquiadora da página! Deixa tudo bonitinho e organizado, com cores e fontes que combinam.
-* **JavaScript:** O cérebro da operação! Faz com que a página seja interativa e dinâmica, exibindo os dados de forma organizada.
+* **CSS:** Seencarrega de deixar tudo bonito e organizado, com cores e fontes que combinam.
+* **JavaScript:** O cérebro! Deixa a página interativa e dinâmica, exibindo os dados de forma organizada.
 
 ** Como usar:**
 
@@ -39,8 +39,6 @@ Quer ajudar a melhorar essa aplicação? Todos são bem-vindos! Abra um pull req
 
 **Essa aplicação é como um jardim: com os cuidados certos, ela floresce e traz alegria para a sua vida!**
 
-Lembre-se: a saúde mental é um presente que devemos cuidar todos os dias. 
+Lembre-se de cuidar da saúde mental. 
 
 **#saudemental #tecnologia #solidariedade**
-
-**Com esse README, você vai atrair mais pessoas para o seu projeto e mostrar que cuidar da saúde mental pode ser divertido e fácil!**
