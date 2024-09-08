@@ -1,4 +1,4 @@
-### ** Olá, futuro usuário!**
+### ** Saúde Mental - Você merece esse cuidado**
 
 Se você chegou até aqui, provavelmente está curioso para saber mais sobre essa aplicação que te ajuda a cuidar da sua saúde mental. Legal, não é mesmo? 
 
