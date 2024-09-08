@@ -9,7 +9,7 @@ Essa aplicação é uma maneira de dar um abraço virtual na sua mente! Ela te p
 **️ Tecnologias usadas:**
 
 * **HTML:** A base de tudo! É como a estrutura da nossa casa, dando forma à página.
-* **CSS:** Seencarrega de deixar tudo bonito e organizado, com cores e fontes que combinam.
+* **CSS:** Encarregada de deixar tudo bonito e organizado, com cores e fontes que combinam.
 * **JavaScript:** O cérebro! Deixa a página interativa e dinâmica, exibindo os dados de forma organizada.
 
 ** Como usar:**
